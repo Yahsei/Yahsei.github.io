@@ -1,11 +1,11 @@
 # Site settings
 author: Jesse Summer-Lavigne
-title: 
+title: My Coding Thoughts
 header-img: img/home-bg.png
 email: jessesl22@gmail.com
 copyright_name: Jesse Summer-Lavigne
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Yahsei
