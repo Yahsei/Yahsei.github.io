@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "NASA CLI Project"
-date:       2020-06-15 18:43:31 +0000
+date:       2020-06-15 14:43:33 -0400
 permalink:  nasa_cli_project
 ---
 
